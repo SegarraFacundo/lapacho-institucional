@@ -1,0 +1,10 @@
+{
+  "name": "lapacho-website",
+  "version": "1.0.0",
+  "description": "Sitio web oficial de Lapacho - Plataforma de Delivery con IA",
+  "main": "index.html",
+  "keywords": ["delivery", "whatsapp", "ai", "argentina", "lapacho"],
+  "author": "Lapacho Platform",
+  "license": "MIT",
+  "homepage": "https://lapacho.ar"
+}
